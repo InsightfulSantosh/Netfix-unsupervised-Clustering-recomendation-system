@@ -45,17 +45,11 @@ We've taken this project one step further by deploying our Netflix recommendatio
 
 Don't settle for mediocre suggestions or waste time on subpar shows. Elevate your Netflix experience with our deployed recommendation system. Get ready to embark on a binge-watching journey like no other!
 
-## How to Access the Deployed System?
 
-1. Explore the **Web App**: [Netflix Recommender System](https://huggingface.co/spaces/Shahrukh2016/Netflix_Recommender)
-2. Enter the Movie or TV Show of your taste.
-3. Sit back, relax, and let our recommendation system curate a tailor-made list of shows and movies based on your preferences.
-
-Start exploring a world of entertainment customized just for you. Uncover hidden gems, rediscover old favorites, and dive into thrilling new series all at the touch of a button. Upgrade your Netflix journey today with our cutting-edge recommendation system!
 
 Note: We had the data till 2019 only. Stay tuned as we expand our data in the near future.
 
-For complete project video explaination and to downoad the dataset: [Click here](https://drive.google.com/drive/folders/1kIA05f82ApuR5rMOH2uNmwmyxT6a3Uww?usp=sharing
-)
+
+
 
 Happy streaming and enjoy your enhanced Netflix experience!
